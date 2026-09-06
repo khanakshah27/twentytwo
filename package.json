@@ -1,0 +1,16 @@
+{
+  "name": "keshu-birthday",
+  "version": "1.0.0",
+  "description": "Happy 22nd Birthday Keshu! A special interactive birthday website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 3000 --directory ."
+  },
+  "keywords": [
+    "birthday",
+    "celebration",
+    "interactive"
+  ],
+  "author": "Kuchu",
+  "license": "MIT"
+}

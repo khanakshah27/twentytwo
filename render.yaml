@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: keshu-birthday
+    buildCommand: echo "Static site - no build needed"
+    staticPublishPath: .
+    envVars: []
